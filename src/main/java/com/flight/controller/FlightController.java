@@ -17,7 +17,7 @@ import com.flight.service.FlightService;
 
 
 @RestController
-@RequestMapping("/flightreservation")
+@RequestMapping("/flightreservation/api")
 public class FlightController {
 	
 	@Autowired
