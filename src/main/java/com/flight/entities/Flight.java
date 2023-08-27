@@ -13,8 +13,9 @@ import lombok.ToString;
 @Getter
 @Setter
 @ToString
+
 public class Flight extends AbstractEntity {
-	
+	// encaptulation
 	private String flightNumber;
 	private String operatingAirlines;
 	private String departureCity;

@@ -3,7 +3,7 @@ package com.flight.entities;
 import java.sql.Timestamp;
 
 public class Booking {
-	
+	//hello world
 	private Boolean checkedIn;
 	private int numberOfBags;
 	private Timestamp created;
