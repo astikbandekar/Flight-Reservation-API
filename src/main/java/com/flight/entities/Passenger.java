@@ -11,7 +11,7 @@ import lombok.ToString;
 @Setter
 @ToString
 public class Passenger extends AbstractEntity  {
-	
+	//hund
 	private String firstName;
 	private String lastName;
 	private String middleName;
